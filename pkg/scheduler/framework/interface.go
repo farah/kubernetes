@@ -16,7 +16,7 @@ limitations under the License.
 
 // This file defines the scheduling framework plugin interfaces.
 
-package v1alpha1
+package framework
 
 import (
 	"context"
